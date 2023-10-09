@@ -8,6 +8,8 @@ This is the first assignment in BAN400. As you know -- given that you have come 
 
 **Student number s194985:**
 
+I have answerd problem 2 and 3 in the second skeleton file 
+
 ## :information_source: Problem 1
 Update the personal information above.
 
